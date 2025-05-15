@@ -17,7 +17,7 @@ function Logo() {
                 alt='logo' 
                 className='logo-img'
             ></LogoImage>
-            <p><strong>Alura</strong>Books</p>
+            <p><strong>Abcd </strong>Books</p>
        </LogoContainer>
     )
 }
