@@ -22,7 +22,7 @@ function UltimosLancamentos() {
       <Titulo>Últimos Lançamentos</Titulo>
       <NovosLivrosContainer>
                  { livros.map( livro => (
-                <img src={livro.src}></img>
+                <img src={livro.src} alt="Livro"></img>
             )) }
          </NovosLivrosContainer>
     </UltimoslancaSection>
